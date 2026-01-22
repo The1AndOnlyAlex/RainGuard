@@ -1,0 +1,3 @@
+ultralytics
+dronekit
+opencv-python
