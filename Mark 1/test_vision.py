@@ -1,3 +1,5 @@
+# source venv/bin/activate
+
 import cv2
 from ultralytics import YOLO
 import time
