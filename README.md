@@ -4,14 +4,21 @@
 [WIP]
 
 ## Vision Systems
+
 Raspberry Pi 5 (8GB)
+
 Arducam OV9281 USB
+
 MicroSD Card (64GB)
+
 USB-C Data Cable
 
 
+<br>
 
+---
 
+<br>
 
 
 # RainGuard
