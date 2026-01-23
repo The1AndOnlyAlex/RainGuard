@@ -1,6 +1,22 @@
+# Mark 1 Hardware Stack
+
+## Frame & Powertrain
+[WIP]
+
+## Vision Systems
+Raspberry Pi 5 (8GB)
+Arducam OV9281 USB
+MicroSD Card (64GB)
+USB-C Data Cable
+
+
+
+
+
+
 # RainGuard
 
-## Hardware BoM (Bill of Materials)
+## Hardware BoM [TBD]
 
 ### Compute & Control
 - **AI Computer:** NVIDIA Jetson Orin Nano (8GB)
